@@ -22,7 +22,7 @@ name: web-framework-app
 # access:  default
 
 vars: # 全局变量
-  region: cn-beijing
+  region: cn-shenzhen
   service:
     name: web-framework
     description: 'Serverless Devs Web Framework Service'
